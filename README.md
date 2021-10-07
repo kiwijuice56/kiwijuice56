@@ -21,9 +21,9 @@ Hi, I'm a student developer that likes to learn computer science and create proj
 
 ## Stats
 ### Github
-[![Kiwijuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiwiJuice56&show_icons=true&theme=github_dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Kiwijuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiwiJuice56&show_icons=true&border_color=262626&theme=discord_old_blurple&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiJuice56&layout=compact&theme=github_dark&hide=GAP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiJuice56&layout=compact&border_color=262626&theme=discord_old_blurple&hide=GAP)](https://github.com/anuraghazra/github-readme-stats)
 ### Codewars
 ![Codewars stats](https://www.codewars.com/users/Eric127/badges/large)
 
