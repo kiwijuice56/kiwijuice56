@@ -21,9 +21,8 @@ Hi, I'm a student developer that likes to learn computer science and create proj
 
 ## Stats
 ### Github
-![](https://github.com/kiwijuice56/kiwijuice56-stats/blob/master/generated/overview.svg)
+![](https://github.com/kiwijuice56/kiwijuice56/blob/main/github-metrics.svg)
 
-![](https://github.com/kiwijuice56/kiwijuice56-stats/blob/master/generated/languages.svg)
 ### Codewars
 ![Codewars stats](https://www.codewars.com/users/Eric127/badges/large)
 
