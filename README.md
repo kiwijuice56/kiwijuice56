@@ -1,5 +1,12 @@
 # KiwiJuice56
-Hi, I'm a student developer that is passionate in computer science! I work on a variety of projects and practice competitive programming for fun.
+Hi, I'm a student developer that is passionate about computer science! I work on a variety of projects and ...
+
+### Interests:
+- 🖥 Computer science, competitive programming
+- 🕹 Game development
+- 🦠 Biology
+- 📐 Graphic design, digital art
+- ⚙️ Raspberry pi, 3D modeling and printing
 
 ![](https://github.com/kiwijuice56/kiwijuice56/blob/main/github-metrics.svg)
 
