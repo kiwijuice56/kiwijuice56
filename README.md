@@ -1,7 +1,17 @@
 # KiwiJuice56
-Hi, I'm a student developer that likes to learn computer science and create projects
+Hi, I'm a student developer that is passionate in computer science! I work on a variety of projects and practice competitive programming for fun.
 
-## Knowledge in:
+![](https://github.com/kiwijuice56/kiwijuice56/blob/main/github-metrics.svg)
+
+## Competitive Programming
+
+![Codewars stats](https://www.codewars.com/users/Eric127/badges/large)
+
+![KiwiJuice56's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kiwijuice56&theme=dark)
+
+
+## Experience with:
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,16 +28,6 @@ Hi, I'm a student developer that likes to learn computer science and create proj
 <img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-
-## Stats
-### Github
-![](https://github.com/kiwijuice56/kiwijuice56/blob/main/github-metrics.svg)
-
-### Codewars
-![Codewars stats](https://www.codewars.com/users/Eric127/badges/large)
-
-### LeetCode
-[![KiwiJuice56's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kiwijuice56&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## Contact
   ### alfaroeric127@gmail.com
