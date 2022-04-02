@@ -1,5 +1,5 @@
 # KiwiJuice56
-Hi, I'm a student developer that is passionate about computer science! I work on a variety of projects and ...
+Hi, I'm a student developer that is passionate about computer science! I work on a variety of projects and always try to develop my skills.
 
 ### Interests:
 - 🖥 Computer science, competitive programming
