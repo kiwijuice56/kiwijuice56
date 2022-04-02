@@ -13,8 +13,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          config_timezone: America/Belize
+          plugin_languages_ignored: GAP
+
