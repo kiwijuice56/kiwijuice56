@@ -12,11 +12,5 @@ Hi, I'm a student developer that is passionate about computer science! I work on
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiJuice56&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Online Programming:
-
-![Codewars stats](https://www.codewars.com/users/Eric127/badges/large)
-
-![KiwiJuice56's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kiwijuice56&theme=dark)
-
 ## Contact
  ### alfaroeric127@gmail.com
